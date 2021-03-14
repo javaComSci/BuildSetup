@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildSetupTS", "BuildSetupTS\BuildSetupTS.csproj", "{FA2C93A8-75F8-448A-8B30-920C2C7F32D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA2C93A8-75F8-448A-8B30-920C2C7F32D8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FA2C93A8-75F8-448A-8B30-920C2C7F32D8}.Debug|x86.Build.0 = Debug|Any CPU
+		{FA2C93A8-75F8-448A-8B30-920C2C7F32D8}.Release|x86.ActiveCfg = Release|Any CPU
+		{FA2C93A8-75F8-448A-8B30-920C2C7F32D8}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

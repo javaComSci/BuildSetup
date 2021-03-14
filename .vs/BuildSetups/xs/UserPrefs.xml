@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{FA2C93A8-75F8-448A-8B30-920C2C7F32D8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuildSetupTS/BuildSetupTS.csproj">
+    <Files>
+      <File FileName="BuildSetupTS/tsconfig.json" Line="13" Column="17" />
+      <File FileName="BuildSetupTS/BuildSetupTS.csproj" Line="26" Column="15" />
+      <File FileName="BuildSetupTS/rollup.config.js" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BuildSetups" expanded="True">
+            <Node name="BuildSetupTS" expanded="True">
+              <Node name="rollup.config.js" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>BuildSetupClassLibrary/BuildSetupClassLibrary.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.BuildSetupTS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

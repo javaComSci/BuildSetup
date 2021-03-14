@@ -1,0 +1,6 @@
+/Users/indhu/Documents/BuildSetups/BuildSetupTS/bin/Debug/BuildSetupTS.dll
+/Users/indhu/Documents/BuildSetups/BuildSetupTS/bin/Debug/BuildSetupTS.pdb
+/Users/indhu/Documents/BuildSetups/BuildSetupTS/obj/Debug/BuildSetupTS.csprojAssemblyReference.cache
+/Users/indhu/Documents/BuildSetups/BuildSetupTS/obj/Debug/BuildSetupTS.csproj.CoreCompileInputs.cache
+/Users/indhu/Documents/BuildSetups/BuildSetupTS/obj/Debug/BuildSetupTS.dll
+/Users/indhu/Documents/BuildSetups/BuildSetupTS/obj/Debug/BuildSetupTS.pdb
